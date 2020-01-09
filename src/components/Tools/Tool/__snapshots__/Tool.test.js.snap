@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="Tool ToolActive"
+  data-tip="pen"
+  id={0}
+  onClick={[Function]}
+>
+  <FontAwesomeIcon
+    border={false}
+    className=""
+    fixedWidth={false}
+    flip={null}
+    icon="pen"
+    inverse={false}
+    listItem={false}
+    mask={null}
+    pull={null}
+    pulse={false}
+    rotation={null}
+    size="2x"
+    spin={false}
+    swapOpacity={false}
+    symbol={false}
+    title=""
+    transform={null}
+  />
+</div>
+`;
+
+exports[`renders correctly dom 1`] = `
+<div
+  class="Tool ToolActive"
+  data-tip="pen"
+  id="0"
+/>
+`;

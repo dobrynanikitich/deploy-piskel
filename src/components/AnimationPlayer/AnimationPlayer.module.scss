@@ -1,0 +1,34 @@
+.AnimationPlayerSection {
+    display: flex;
+    flex-direction: column;
+    .AnimationPlayerWrapper {
+        width: 100%;
+        max-width: 240px;
+        height: 240px;
+        border: 3px solid darkslategray;
+        border-radius: 5px;
+        .AnimationPlayerCanvas {
+            width: 100%;
+            height: 100%;
+            background-color: gray;
+        }
+    }
+    .InputRangeWrapper {
+        display: flex;
+        align-items: center;
+        height: 70px;
+    }
+    .AnimationPlayerFullScreen {
+        border: none;
+        background: goldenrod;
+        color: white;
+        font-weight: bold;
+        height: 30px;
+        font-size: 12px;
+        width: 100px;
+        align-self: flex-end;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}

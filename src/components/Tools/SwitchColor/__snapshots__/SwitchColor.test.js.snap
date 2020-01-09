@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Array [
+  <div
+    className="SwitchColorBlock"
+  >
+    <label
+      className="CurrentColor"
+      id="firstColor"
+    >
+      <input
+        id="mainColor"
+        onChange={[Function]}
+        type="color"
+        value="#808080"
+      />
+    </label>
+    <label
+      className="PrevColor"
+      id="secondColor"
+    >
+      <input
+        id="secondColor"
+        onChange={[Function]}
+        type="color"
+        value="#808080"
+      />
+    </label>
+  </div>,
+  <div
+    className="SwitchColorsBtn"
+    data-tip="Press to switch colors"
+  />,
+]
+`;

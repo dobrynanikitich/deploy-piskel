@@ -1,0 +1,24 @@
+.ToolsSection {
+    width: 100%;
+    max-width: 140px;
+    display: flex;
+    flex-direction: column;
+}
+
+.MainTools {
+    width: 100%;
+    max-width: 135px;
+    min-height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.SelectInput {
+    outline: none;
+    width: 100%;
+    max-width: 85px;
+    margin: 27px 0;
+}

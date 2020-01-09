@@ -1,0 +1,30 @@
+.SwitchColorBlock {
+    width: 100%;
+    max-width: 135px;
+    display: flex;
+    justify-content: space-around;
+    label {
+        width: 60px;
+        height: 60px;
+        border: 5px solid darkslategray;
+        box-sizing: border-box;
+    }
+    input {
+        opacity: 0;
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+}
+
+.CurrentColor {
+    background-color: #000000;
+}
+
+.SwitchColorsBtn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

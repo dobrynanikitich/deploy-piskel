@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`formats application name correctly 1`] = `
+<div>
+  PISKEL CLONE
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<header
+  className="Header"
+>
+  <div
+    className="HeaderName"
+  >
+    PISKEL CLONE
+  </div>
+  <div
+    className="BtnsWrapper"
+  >
+    <a
+      className="BackToLanding"
+      href="#/"
+    >
+      BACK
+    </a>
+    <div
+      className="AuthWrapper"
+      onClick={[Function]}
+    >
+      <FontAwesomeIcon
+        border={false}
+        className=""
+        fixedWidth={false}
+        flip={null}
+        icon={
+          Array [
+            "fab",
+            "google",
+          ]
+        }
+        inverse={false}
+        listItem={false}
+        mask={null}
+        pull={null}
+        pulse={false}
+        rotation={null}
+        size={null}
+        spin={false}
+        swapOpacity={false}
+        symbol={false}
+        title=""
+        transform={null}
+      />
+      <div
+        className="AuthSection"
+      >
+        SIGN IN
+      </div>
+      <FontAwesomeIcon
+        border={false}
+        className=""
+        fixedWidth={false}
+        flip={null}
+        icon="sign-out-alt"
+        inverse={false}
+        listItem={false}
+        mask={null}
+        pull={null}
+        pulse={false}
+        rotation={null}
+        size={null}
+        spin={false}
+        swapOpacity={false}
+        symbol={false}
+        title=""
+        transform={null}
+      />
+    </div>
+  </div>
+</header>
+`;
+
+exports[`renders correctly again 1`] = `
+<header
+  class="Header"
+>
+  <div
+    class="HeaderName"
+  >
+    PISKEL CLONE
+  </div>
+  <div
+    class="BtnsWrapper"
+  >
+    <a
+      class="BackToLanding"
+      href="#/"
+    >
+      BACK
+    </a>
+    <div
+      class="AuthWrapper"
+    >
+      <div
+        class="AuthSection"
+      >
+        SIGN IN
+      </div>
+    </div>
+  </div>
+</header>
+`;

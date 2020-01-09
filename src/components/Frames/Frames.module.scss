@@ -1,0 +1,39 @@
+.FramesSection {
+    margin-right: 20px;
+    overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: darkslategray;
+}
+
+::-webkit-scrollbar-thumb {
+    background: gray;
+    border-radius: 8px;
+    border: 3px solid goldenrod;
+    &:hover {
+        background: gray;
+    }
+}
+
+.AddNewFrameBtn {
+    width: 100%;
+    max-width: 120px;
+    outline: none;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    border: 4px solid goldenrod;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background: darkslategray;
+    &:hover {
+        cursor: pointer;
+        background: lightslategray;
+        color: goldenrod;
+    }
+}

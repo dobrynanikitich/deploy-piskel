@@ -1,0 +1,126 @@
+.LandingPage {
+    width: 100%;
+    background: darkslategray;
+    min-height: 100vh;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    .LandingHeader {
+        width: 100%;
+        height: 50px;
+        margin-bottom: 15px;
+        width: 100%;
+        height: 55px;
+        background: darkslategray;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-sizing: border-box;
+        border-bottom: 3px solid goldenrod;
+        font-size: 25px;
+        font-weight: bold;
+        padding-left: 15px;
+        .HeaderLandingName {
+            color: orangered;
+            font-size: 45px;
+            font-weight: bold;
+        }
+        a {
+            width: 150px;
+            height: 80%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: goldenrod;
+            color: white;
+            text-decoration: none;
+            font-size: 20px;
+            &:hover {
+                cursor: pointer;
+                background: white;
+                color: goldenrod;
+            }
+        }
+    }
+    .PiskelOverview {
+        display: flex;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 0 10px;
+        .PiskelDesc {
+            width: 30%;
+            color: white;
+            font-size: 25px;
+            line-height: 50px;
+        }
+        .PiskelSreenshotWrapper {
+            width: 70%;
+            img {
+                width: 100%;
+            }
+        }
+    }
+    .PiskelSprites {
+        width: 100%;
+        min-height: 270px;
+        display: flex;
+        justify-content: center;
+        .PiskelSpritesExample {
+            width: 80%;
+            display: flex;
+            justify-content: space-evenly;
+            img {
+                width: 200px;
+                height: 200px;
+            }
+        }
+    }
+    .PiskelFunctionality {
+        width: 100%;
+        font-size: 25px;
+        color: white;
+        line-height: 40px;
+        .PiskelFunctionalityList {
+            margin: 0;
+            width: 100%;
+            box-sizing: border-box;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            li {
+                width: 45%;
+                height: 150px;
+                display: flex;
+                justify-content: space-between;
+                margin-bottom: 5px;
+                p {
+                    width: 70%;
+                }
+                img {
+                    width: 30%;
+                }
+            }
+        }
+    }
+    .AuthorInfo {
+        width: 100%;
+        box-sizing: border-box;
+        .AuthorInfoWrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            p {
+                font-size: 25px;
+                color: white;
+                margin-right: 10px;
+            }
+            img {
+                width: 30px;
+                height: 30px;
+                &:hover {
+                    color: white;
+                }
+            }
+        }
+    }
+}
