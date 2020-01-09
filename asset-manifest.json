@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/deploy-piskel/static/css/main.b7bea4c9.chunk.css",
+    "main.js": "/deploy-piskel/static/js/main.f6a66dda.chunk.js",
+    "main.js.map": "/deploy-piskel/static/js/main.f6a66dda.chunk.js.map",
+    "runtime-main.js": "/deploy-piskel/static/js/runtime-main.3e7c8841.js",
+    "runtime-main.js.map": "/deploy-piskel/static/js/runtime-main.3e7c8841.js.map",
+    "static/css/2.6d7d54d2.chunk.css": "/deploy-piskel/static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.ae1fe56a.chunk.js": "/deploy-piskel/static/js/2.ae1fe56a.chunk.js",
+    "static/js/2.ae1fe56a.chunk.js.map": "/deploy-piskel/static/js/2.ae1fe56a.chunk.js.map",
+    "index.html": "/deploy-piskel/index.html",
+    "precache-manifest.b3be0eebb948767d7abf0f10251893f1.js": "/deploy-piskel/precache-manifest.b3be0eebb948767d7abf0f10251893f1.js",
+    "service-worker.js": "/deploy-piskel/service-worker.js",
+    "static/css/2.6d7d54d2.chunk.css.map": "/deploy-piskel/static/css/2.6d7d54d2.chunk.css.map",
+    "static/css/main.b7bea4c9.chunk.css.map": "/deploy-piskel/static/css/main.b7bea4c9.chunk.css.map",
+    "static/js/2.ae1fe56a.chunk.js.LICENSE": "/deploy-piskel/static/js/2.ae1fe56a.chunk.js.LICENSE",
+    "static/media/gifex2.gif": "/deploy-piskel/static/media/gifex2.0eef7b31.gif",
+    "static/media/gifex3.gif": "/deploy-piskel/static/media/gifex3.c5e2383b.gif",
+    "static/media/gifex4.gif": "/deploy-piskel/static/media/gifex4.01158306.gif",
+    "static/media/github.png": "/deploy-piskel/static/media/github.0bdeeabc.png",
+    "static/media/piskelscreenshot.png": "/deploy-piskel/static/media/piskelscreenshot.1a3403d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e7c8841.js",
+    "static/css/2.6d7d54d2.chunk.css",
+    "static/js/2.ae1fe56a.chunk.js",
+    "static/css/main.b7bea4c9.chunk.css",
+    "static/js/main.f6a66dda.chunk.js"
+  ]
+}
