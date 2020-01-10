@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08624bf1eb2149d53d49f593c3875887",
+    "revision": "1691221f177d78395b47e1aaedb331cb",
     "url": "/deploy-piskel/index.html"
   },
   {
-    "revision": "16386cde69749ec651eb",
+    "revision": "bc96f49c07b6b4fe5618",
     "url": "/deploy-piskel/static/css/2.6d7d54d2.chunk.css"
   },
   {
-    "revision": "f7a3b54ad0855481b087",
-    "url": "/deploy-piskel/static/css/main.b7bea4c9.chunk.css"
+    "revision": "7ac9be5eccb0c7051d42",
+    "url": "/deploy-piskel/static/css/main.a715f749.chunk.css"
   },
   {
-    "revision": "16386cde69749ec651eb",
-    "url": "/deploy-piskel/static/js/2.ae1fe56a.chunk.js"
+    "revision": "bc96f49c07b6b4fe5618",
+    "url": "/deploy-piskel/static/js/2.51dd45dc.chunk.js"
   },
   {
-    "revision": "1e20c563ba63c03e0df3356837cf6fde",
-    "url": "/deploy-piskel/static/js/2.ae1fe56a.chunk.js.LICENSE"
+    "revision": "86afaa925e0f432774bf95b19b6933fb",
+    "url": "/deploy-piskel/static/js/2.51dd45dc.chunk.js.LICENSE"
   },
   {
-    "revision": "f7a3b54ad0855481b087",
-    "url": "/deploy-piskel/static/js/main.f6a66dda.chunk.js"
+    "revision": "7ac9be5eccb0c7051d42",
+    "url": "/deploy-piskel/static/js/main.139b0cd4.chunk.js"
   },
   {
     "revision": "9ac6ee0c80a5062d0551",

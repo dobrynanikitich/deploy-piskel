@@ -37,13 +37,6 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/*!
- * Platform.js <https://mths.be/platform>
- * Copyright 2014-2018 Benjamin Tan <https://bnjmnt4n.now.sh/>
- * Copyright 2011-2013 John-David Dalton <http://allyoucanleet.com/>
- * Available under MIT license <https://mths.be/mit>
- */
-
 /** @license React v16.12.0
  * react-is.production.min.js
  *
